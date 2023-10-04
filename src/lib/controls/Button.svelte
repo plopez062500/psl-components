@@ -34,9 +34,9 @@
 
 	export type Size = keyof typeof sizes;
 	export const sizes = {
-		sm: 'p-2',
-		md: 'p-3',
-		lg: 'p-4'
+		sm: 'px-4 py-1',
+		md: 'px-6 py-2',
+		lg: 'px-8 py-3'
 	};
 </script>
 
