@@ -38,6 +38,7 @@
 		<input
 			class={`${sizes[size]} border border-gray-300 rounded-sm outline-blue-300  transition-all block`}
 			class:w-full={full_width}
+			type='password'
 			{name}
 			{placeholder}
 			bind:value
