@@ -29,6 +29,13 @@
 			outline:
 				'bg-white text-yellow-500 border-yellow-500 hover:text-white hover:bg-yellow-500 border border-yellow-500',
 			ghost: 'bg-white text-yellow-500 border-yellow-500 hover:text-white hover:bg-yellow-500'
+		},
+		gray: {
+			filled:
+				'bg-gray-300 text-white border-gray-300 hover:text-gray-300 hover:bg-white border border-gray-300',
+			outline:
+				'bg-white text-gray-500 border-gray-500 hover:text-white hover:bg-gray-500 border border-gray-500',
+			ghost: 'bg-white text-gray-500 border-gray-500 hover:text-white hover:bg-gray-500'
 		}
 	};
 
